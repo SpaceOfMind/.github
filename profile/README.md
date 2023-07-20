@@ -49,6 +49,11 @@
 
 마음 기록에서는 이때까지 쏘아올린 모든 발사체의 발사 기록을 조회할 수 있습니다.
 
+## 팀원
+
+- 류이채 <a href="https://github.com/ihchaeryu" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+- 이혜민 <a href="https://github.com/coitloz88" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+
 ## 기술 스택
 
 ### 🖥️ 개발 환경
@@ -79,9 +84,15 @@
 
 ### 가까이 보기
 
+![sendSatellite_0](https://github.com/SpaceOfMind/.github/assets/120316174/9df65261-3bbc-4c0a-901e-9dfa387165ce)
 
-![satelliteDetail](https://github.com/SpaceOfMind/.github/assets/120316174/5a1f4160-4266-46c7-8d4e-55101ca48ce7)
+![sendSatellite_2](https://github.com/SpaceOfMind/.github/assets/120316174/c4112ea6-3e3e-481e-8eeb-1d80df1622f4)
 
+![sendProbe_1](https://github.com/SpaceOfMind/.github/assets/120316174/d55c08f5-d471-48a2-a822-8a6d25aa112f)
+
+![sendProbe_2](https://github.com/SpaceOfMind/.github/assets/120316174/1ae554b3-63dc-43fc-9aa4-922d6e1c3380)
+
+![satelliteDetail](https://github.com/SpaceOfMind/.github/assets/120316174/d423c0f4-a30e-4944-b874-acde02ff7d84)
 
 - 인공위성 띄우기
 - 탐사선 띄우기
