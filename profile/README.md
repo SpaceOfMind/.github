@@ -1,6 +1,6 @@
 # 마음우주: Space of Mind
 
-![logo]()
+![logo](https://github.com/SpaceOfMind/.github/assets/120316174/313e1b6a-644f-4fea-b209-630164b45c63)
 
 마음 우주는 여러분의 바쁜 삶 속에서 쉬어갈 수 있는 고요한 쉼터가 되어줄 웹 서비스입니다.
 
