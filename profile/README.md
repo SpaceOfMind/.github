@@ -72,12 +72,16 @@
 
 ### 가입
 
-![signup gif]()
+![signup](https://github.com/SpaceOfMind/.github/assets/120316174/18cf3f92-6db6-4763-9cb0-dde6eb2ee5fd)
 
 - 나의 우주 생성
 - 나의 행성 선택
 
 ### 가까이 보기
+
+
+![satelliteDetail](https://github.com/SpaceOfMind/.github/assets/120316174/5a1f4160-4266-46c7-8d4e-55101ca48ce7)
+
 
 - 인공위성 띄우기
 - 탐사선 띄우기
@@ -86,14 +90,23 @@
 
 ### 멀리 보기
 
+![probeDetail](https://github.com/SpaceOfMind/.github/assets/120316174/3bb6901c-e6e1-48a0-8bc9-ece5b28dce66)
+
+![deleteFromOrbit](https://github.com/SpaceOfMind/.github/assets/120316174/a4e6e953-9d98-43de-b818-b1f2d3cc7450)
+
+
 - 탐사선 자세히 보기
 
 ### 마음 기록
+
+![archives](https://github.com/SpaceOfMind/.github/assets/120316174/34e10bf6-8667-47d1-8139-fa63ab1f7815)
 
 - 모든 인공위성 및 탐사선 확인
 - 다른 우주에서 보낸 탐사선 확인
 
 ### 내 행성 정보
+
+![myPlanet](https://github.com/SpaceOfMind/.github/assets/120316174/54af2b4d-b3af-454f-80a4-159adba39fcc)
 
 - 내 행성 코드 확인
 - 로그아웃
